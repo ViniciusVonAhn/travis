@@ -1,3 +1,3 @@
 def somar(x, y):
     """docstring for somar"""
-    return(x * y)
+    return(x + y)
